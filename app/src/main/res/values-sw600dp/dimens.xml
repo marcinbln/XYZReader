@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_collapsed_image_size">250dp</dimen>
+
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_margin">36dp</dimen>
+
+    <!-- list -->
+    <dimen name="list_side_margin">4dp</dimen>
+    <integer name="list_column_count">1</integer>
+
+    <!-- detail -->
+    <dimen name="detail_inner_horiz_margin">16dp</dimen>
+    <!-- force match_parent -->
+    <dimen name="detail_metabar_vert_padding">16dp</dimen>
+    <dimen name="detail_metabar_title_bottom_padding">4dp</dimen>
+    <dimen name="app_bar_height">350dp</dimen>
+    <dimen name="app_width">800dp</dimen>
+    <dimen name="app_bar_main_height">350dp</dimen>
+    <dimen name="title_size_main_rv_item">24sp</dimen>
+    <dimen name="margin_top_main_rv_item">8dp</dimen>
+    <dimen name="margin_bottom_main_rv_item">8dp</dimen>
+    <dimen name="title_max_textsize">40sp</dimen>
+    <dimen name="body_text_size">22sp</dimen>
+    <dimen name="main_item_height">250dp</dimen>
+    <dimen name="margin_image_mainrv">24dp</dimen>
+    <dimen name="title_marginstart">32dp</dimen>
+    <item name="guideline_perc" format="float" type="dimen">0.22</item>
+
+
+    <dimen name="fastscroll__handle_corner">6dp</dimen>
+    <dimen name="fastscroll__handle_height">56dp</dimen>
+    <dimen name="fastscroll__handle_inset">9dp</dimen>
+    <dimen name="fastscroll__handle_clickable_width">28dp</dimen>
+
+
+</resources>

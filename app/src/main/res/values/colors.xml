@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01579b</color>
+    <color name="colorPrimaryDark">#004c8c</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="photo_placeholder">#ccc</color>
+    <color name="colorGrey">#dddddd</color>
+</resources>
