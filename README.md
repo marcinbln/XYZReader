@@ -10,8 +10,8 @@ Part of Udacity Android Developer Nanodegree course <br>
    + AppBarLayout
    + CollapsingToolbarLayout
    + SnackBar
-* Use paper surfaces in the design
-* Apply transitions and motion 
+* Separate an interface into surfaces.
+* Effectively use transitions and motion.
    
 
 
