@@ -5,13 +5,14 @@ Part of Udacity Android Developer Nanodegree course <br>
 
 ## Overview
 * Redesign provided reader app to improve the UI and to conform to Material Design.
-* App implements Material Design Components: 
+* App implements key Material Design Components: 
    + CoordinatorLayout 
    + AppBarLayout
    + CollapsingToolbarLayout
    + SnackBar
-* Separate an interface into surfaces.
-* Effectively use transitions and motion.
+   + FloatingActionButton
+* Interface is separated into material surfaces to give a 3D feel
+* Transitions and animations added to provide pleasant user experience and smooth interactions.
    
 
 
